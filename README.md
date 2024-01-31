@@ -1,4 +1,4 @@
-# my Biodata
+# My Biodata
 
 ## Personal Information
 - **Name:** ica
