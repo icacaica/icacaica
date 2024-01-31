@@ -3,7 +3,7 @@
 ## Personal Information
 - **Name:** ica
 - **Date of Birth:** 26 mei 2008
-- **Location:** jogja
+- **Location:** magelang
 
 ## Educational Background
 - **Degree:** studen
