@@ -1,14 +1,14 @@
 # Biodata
 
 ## Personal Information
-- **Name:** Your Name
-- **Date of Birth:** Your Date of Birth
-- **Location:** Your City, Country
+- **Name:** ica
+- **Date of Birth:** 26 mei 2008
+- **Location:** jogja
 
 ## Educational Background
-- **Degree:** Your Degree
-- **School/University:** Name of School/University
-- **Graduation Year:** Year of Graduation
+- **Degree:** studen
+- **School/University:** sma sains al quraan
+- **Graduation Year:** 
 
 ## Skills
 - Skill 1
